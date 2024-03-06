@@ -1,4 +1,3 @@
-
 def fibonacci(limite):
   sequencia = [0, 1]
   while sequencia[-1] < limite:
